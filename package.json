@@ -1,8 +1,7 @@
 {
-  "name": "mdb-react-template",
-  "version": "4.0.0",
-  "description": "template for mdb-react-ui-kit",
-  "private": true,
+  "name": "@mdbootstrap/react-invoice",
+  "version": "1.0.0",
+  "description": "Responsive React Invoice with Bootstrap 5. Various examples like simple invoice, payment receipt, company invoice, invoice with images and many more.",
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
     "react": "^18.1.0",
@@ -19,7 +18,15 @@
   },
   "keywords": [
     "template",
-    "react"
+    "react",
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "css",
+    "html",
+    "js",
+    "invoice"
   ],
   "author": "MDBootstrap",
   "license": "MIT",
@@ -34,5 +41,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-invoice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-invoice/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/react/extended/invoice"
 }
